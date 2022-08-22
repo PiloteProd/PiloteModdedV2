@@ -1,7 +1,7 @@
 {
     "name": "Pilote-Modded",
     "preductname": "Pilote Modded",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Pilote Modded",
     "main": "src/app.js",
     "author": "PiloteProd",
